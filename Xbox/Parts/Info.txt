@@ -1,0 +1,4 @@
+Enclosure, top
+Chasis, Top
+Power Supply
+Fan Assembly Heatsink/Cooler/Assembly
