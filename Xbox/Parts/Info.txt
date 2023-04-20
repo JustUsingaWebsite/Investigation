@@ -1,4 +1,27 @@
-Enclosure, top
-Chasis, Top
-Power Supply
-Fan Assembly Heatsink/Cooler/Assembly
+4k ultra hd at 60 frames per second
+HDR
+120 FPS
+Ray Tracing
+AMD Zen 2 CPU
+AMD RDNA 2 GPU
+November 2020
+16GB of GDDR6 RAM
+
+fast load times thanks to its custom NVMe SSD
+
+Storage: 1TB custom NVMe SSD, with 2.4 GB/s (raw) or 4.8 GB/s (compressed) I/O throughput
+
+Optical Drive: 4K UHD Blu-ray Drive
+
+Video Output: HDMI 2.1, up to 4K at 120Hz, 8K support
+
+Audio Output: Dolby Digital 5.1, DTS 5.1, Dolby TrueHD with Atmos, up to 7.1 L-PCM
+
+Wireless: Wi-Fi 802.11ac, Bluetooth 5.0
+
+Ports: HDMI 2.1, 3x USB 3.1, Ethernet, storage expansion slot, IR receiver
+
+
+
+3 TOPICS: 
+POWERSUPPLY, FAN ASSEMBLY, HEATSKIN/COOLER ASSEMBLY
