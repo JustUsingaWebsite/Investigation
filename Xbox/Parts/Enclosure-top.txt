@@ -1,6 +1,8 @@
-The current web page context is about the history of Xbox consoles. The original Xbox console was released in 2001 and was a large black box with a green X on top³. The Xbox 360, released in 2005, was smaller and more streamlined than its predecessor¹. The Xbox One, released in 2013, was larger than the Xbox 360 and had a more rectangular shape⁵. The Xbox Series X, released in 2020, has a tall rectangular shape and is black with a green circle on top¹. The Xbox Series S, also released in 2020, is smaller than the Series X and has a white rectangular shape¹.
 
-I hope this helps! Let me know if you have any other questions.
+The original Xbox console was released in 2001 and was a large black box with a green X on top1.
+The Xbox 360, released in 2005, was smaller and more streamlined than its predecessor2.
+The Xbox One, released in 2013, was larger than the Xbox 360 and had a more rectangular shape3. The Xbox Series X, released in 2020, has a tall rectangular shape and is black with a green circle on top2. The Xbox Series S, also released in 2020, is smaller than the Series X and has a white rectangular shape2.
+
 
 Source: Conversation with Bing, 29/04/2023(1) The History of the Xbox | Digital Trends. https://www.digitaltrends.com/gaming/the-history-of-the-xbox/ Accessed 29/04/2023.
 (2) 20 years of Xbox: a visual history - The Verge. https://www.theverge.com/2021/11/15/22783104/20-years-of-xbox-visual-history-360-one-x-s-series-the-duke Accessed 29/04/2023.
