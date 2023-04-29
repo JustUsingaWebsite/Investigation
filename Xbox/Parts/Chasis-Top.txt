@@ -1,1 +1,5 @@
+The current web page context is about Xbox Series X Center Chassis sold on ifixit.com. The Xbox Series X Center Chassis is a middle metal chassis that houses the internal components compatible with Xbox Series X model RRT-00010 and RRT-00013 gaming consoles. It can be used to fix issues like a bent frame.
 
+(1) https://www.ifixit.com/products/xbox-series-x-center-chassis 
+(2) Xbox Series X Parts | iFixit. https://www.ifixit.com/Parts/Xbox_Series_X 
+(3) Xbox Series X Case Components | iFixit. https://www.ifixit.com/Parts/Xbox_Series_X/Case_Components 
