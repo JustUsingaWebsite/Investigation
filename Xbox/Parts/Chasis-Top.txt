@@ -1,8 +1,8 @@
 The metal chassis inside the Xbox Series X is a part of the console's internal structure that supports the components and provides stability.
-The metal chassis consists of three parts: the heat sink and motherboard chassis, the center chassis, and the top chassis². 
+The metal chassis consists of three parts: the heat sink and motherboard chassis, the center chassis, and the top chassis. 
 The heat sink and motherboard chassis houses the main components of the console, such as the CPU, GPU, memory, SSD, and fan.
 The center chassis connects the heat sink and motherboard chassis to the top chassis, and also holds the power supply and disc drive.
-The top chassis covers the top vent of the console and has a green-tinted plastic underneath².
+The top chassis covers the top vent of the console and has a green-tinted plastic underneath.
 
 The metal chassis is designed to optimize airflow and cooling for the console, as well as to reduce noise and vibration. The metal chassis also helps to protect the components from dust and damage².
 
